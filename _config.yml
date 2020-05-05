@@ -10,7 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
     <img src="/images/linkedin.png?raw=true" style="width: 30px"/>
   </a>
 
-  <a href="https://www.instagram.com/thiagotns/">
+  <a href="https://www.instagram.com/thiago_tns/">
     <img src="/images/instagram.png?raw=true" style="width: 30px; margin-left: 4px"/>
   </a>
 
@@ -18,7 +18,7 @@ description: > # your text below (remove <br> elements if you don't need line br
     <img src="/images/twitter.png?raw=true" style="width: 30px; margin-left: 4px"/>
   </a>
 
-  <a href="{{ site.github.owner_url }}">
+  <a href="https://github.com/thiagotns">
     <img src="/images/github.png?raw=true" style="width: 30px; margin-left: 4px"/>
   </a>
 
